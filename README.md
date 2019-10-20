@@ -6,7 +6,7 @@ Lightweight docker for python3 gRPC based on the Alpine Linux distribution.
 
 ## Content
 
-* Docker image based on the Alpine Linux distribution `16.04`
+* Docker image based on the Alpine Linux distribution
 * Python `3`
 * gRPC for Python `grpcio` and `grpcio-tools`
 

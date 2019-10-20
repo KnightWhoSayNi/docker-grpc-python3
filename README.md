@@ -38,7 +38,7 @@ docker build -t grpc-python3-image .
 #### Run
 
 ```shell
-docker run -ti grpc-python3
+docker run -ti grpc-python3-image
 ```
 
 
